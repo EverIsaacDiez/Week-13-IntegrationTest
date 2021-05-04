@@ -1,0 +1,25 @@
+{
+  "name": "week13-integrationtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --color",
+    "test-coverage": "jest --coverage --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EverIsaacDiez/week13-integrationTest.git"
+  },
+  "author": "Ever Diez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EverIsaacDiez/week13-integrationTest/issues"
+  },
+  "homepage": "https://github.com/EverIsaacDiez/week13-integrationTest#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.0",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
